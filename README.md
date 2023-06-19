@@ -1,4 +1,4 @@
-# Bitcoin_miner
+# Bitcoin Miner
 These is a basic Python script that mines bitcoin.
 **DESCRIPTION**
 
